@@ -6,5 +6,6 @@
 
 ## Code and Resources Used 
 **Python Version:** 3.8  
-**Packages:** pandas, numpy, sklearn, matplotlib, catboost, imblearn 
+**Packages:** pandas, numpy, sklearn, matplotlib, catboost, imblearn
+
 **Dataset:**  https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
